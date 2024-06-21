@@ -53,10 +53,10 @@
 
             label = "Raise";
             bindings = <
-&kp TAB    &kp F1  &kp F2  &kp F3    &kp F4  &kp F5       &kp F6     &kp F7         &kp F8          &kp F9        &kp F10    &kp F11
-&kp LCTRL  &trans  &trans  &trans    &trans  &trans       &trans     &kp LEFT       &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT  &kp F12
-&kp LSHFT  &trans  &trans  &trans    &trans  &trans       &kp UNDER  &kp BACKSPACE  &kp DELETE      &kp RBRC      &kp PIPE   &kp TILDE
-                           &kp LGUI  &trans  &kp SPACE    &kp RET    &trans         &kp RALT
+&kp TAB    &kp F1  &kp F2  &kp F3    &kp F4  &kp F5       &kp F6     &kp F7          &kp F8        &kp F9     &kp F10   &kp F11
+&kp LCTRL  &trans  &trans  &trans    &trans  &trans       &kp LEFT   &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT  &trans    &kp F12
+&kp LSHFT  &trans  &trans  &trans    &trans  &trans       &kp UNDER  &kp BACKSPACE   &kp DELETE    &kp RBRC   &kp PIPE  &kp TILDE
+                           &kp LGUI  &trans  &kp SPACE    &kp RET    &trans          &kp RALT
             >;
         };
 
